@@ -14,10 +14,10 @@ Participar da nextLevelWeek e adquirir conhecimentos, logo após dar continuidad
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-*Html,
-*Css,
-*JavaScript e
-*NodeJs
+* Html,
+* Css,
+* JavaScript e
+* NodeJs
 
 ## 🔗 Como contribuir
 
